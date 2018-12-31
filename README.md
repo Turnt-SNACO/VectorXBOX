@@ -1,6 +1,5 @@
 # VectorXBOX
 Control Anki Vector with an XBox (or other) remote.
-dependencies:
+dependencies (install with pip):
 * inputs
 * anki_vektor
-* 
